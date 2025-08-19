@@ -97,9 +97,21 @@
       "api": "https://szyyds.cn/api.php/provide/vod",
       "name": "小马线路"
     },
+    "xinfeimao": {
+      "api": "http://肥猫.com/api.php/provide/vod",
+      "name": "新肥猫"
+    },
     "huichun": {
       "api": "https://www.huichunniao.cn/api.php/provide/vod",
       "name": "回春线路"
+    },
+    "fantaiyin": {
+      "api": "http://www.饭太硬.com/tv/api.php/provide/vod",
+      "name": "饭太硬"
+    },
+    "wuaiyinshi": {
+      "api": "http://52bsj.vip:98/wuai/api.php/provide/vod",
+      "name": "吾爱影视"
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
