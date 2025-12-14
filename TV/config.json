@@ -256,6 +256,11 @@
             "name": "AV-91麻豆",
             "detail": "https://91md.me"
         },
+        "91jp": {
+            "api": "https://91jpzyw.com/api.php/provide/vod",
+            "name": "AV-91精品",
+            "detail": "https://91jpzyw.com"
+        },
         "lbapiby": {
             "api": "http://lbapiby.com/api.php/provide/vod",
             "name": "AV-AIvin",
