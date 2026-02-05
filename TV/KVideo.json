@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": "my_source_1",
+    "name": "1080资源",
+    "baseUrl": "https://api.1080zyku.com/inc/api_mac10.php",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_1",
+    "name": "360资源",
+    "baseUrl": "https://360zy.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_1",
+    "name": "CK资源",
+    "baseUrl": "https://ckzy.me/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  }
+]
